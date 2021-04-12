@@ -28,23 +28,25 @@ update @ 2021/04/12
 
 3. change log state per 10 sec , below is terminal output log
 
-![image](https://github.com/released/M031BSP_I2C_ADXL345/blob/master/raw_data.jpg)
-	
 
-![image](https://github.com/released/M031BSP_I2C_ADXL345/blob/master/raw_pitch_roll_yaw.jpg)	
+![image](https://github.com/released/M031BSP_I2C_ADXL345/blob/blob/master/raw_data.jpg)
+
+
+![image](https://github.com/released/M031BSP_I2C_ADXL345/blob/blob/main/raw_pitch_roll_yaw.jpg)	
 	
 	
 4. below is I2C communication with LA capture	
 	
-![image](https://github.com/released/M031BSP_I2C_ADXL345/blob/master/LA_data_get_polling.jpg)
+	
+![image](https://github.com/released/M031BSP_I2C_ADXL345/blob/blob/master/LA_data_get_polling.jpg)
 
 
-![image](https://github.com/released/M031BSP_I2C_ADXL345/blob/master/LA_data_get_x.jpg)
+![image](https://github.com/released/M031BSP_I2C_ADXL345/blob/blob/master/LA_data_get_x.jpg)
 
 
-![image](https://github.com/released/M031BSP_I2C_ADXL345/blob/master/LA_data_get_y.jpg)
+![image](https://github.com/released/M031BSP_I2C_ADXL345/blob/blob/master/LA_data_get_y.jpg)
 
 
-![image](https://github.com/released/M031BSP_I2C_ADXL345/blob/master/LA_data_get_z.jpg)
+![image](https://github.com/released/M031BSP_I2C_ADXL345/blob/blob/master/LA_data_get_z.jpg)
 
 
